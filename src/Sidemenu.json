@@ -1,0 +1,106 @@
+[
+    {
+        "id" : 1,
+        "mainMenuName" : "Home",
+        "subMenu" : [
+            {
+                "smId" :  1,
+                "smName" : "Home Sub Menu 1"
+            },
+            {
+                "smId" :  2,
+                "smName" : "Home Sub Menu 2"
+            },
+            {
+                "smId" :  3,
+                "smName" : "Home Sub Menu 3"
+            },
+            {
+                "smId" :  4,
+                "smName" : "Home Sub Menu 4"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "mainMenuName" : "About",
+        "subMenu" : [
+            {
+                "smId" :  1,
+                "smName" : "About Sub Menu 1"
+            },
+            {
+                "smId" :  2,
+                "smName" : "About Sub Menu 2"
+            },
+            {
+                "smId" :  3,
+                "smName" : "About Sub Menu 3"
+            },
+            {
+                "smId" :  4,
+                "smName" : "About Sub Menu 4"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "mainMenuName" : "Contact"
+    },
+    {
+        "id" : 4,
+        "mainMenuName" : "Services",
+        "subMenu" : [
+            {
+                "smId" :  1,
+                "smName" : "Services Sub Menu 1"
+            },
+            {
+                "smId" :  2,
+                "smName" : "Services Sub Menu 2"
+            },
+            {
+                "smId" :  3,
+                "smName" : "Services Sub Menu 3"
+            },
+            {
+                "smId" :  4,
+                "smName" : "Services Sub Menu 4"
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "mainMenuName" : "Info",
+        "subMenu" : [
+            {
+                "smId" :  1,
+                "smName" : "Info Sub Menu 1"
+            },
+            {
+                "smId" :  2,
+                "smName" : "Info Sub Menu 2"
+            },
+            {
+                "smId" :  3,
+                "smName" : "Info Sub Menu 3"
+            },
+            {
+                "smId" :  4,
+                "smName" : "Info Sub Menu 4"
+            },
+            {
+                "smId" :  5,
+                "smName" : "Info Sub Menu 5"
+            },
+            {
+                "smId" :  6,
+                "smName" : "Info Sub Menu 6"
+            },
+            {
+                "smId" :  7,
+                "smName" : "Info Sub Menu 7"
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+.sideNav {
+    padding: 1rem 1rem;
+    border-right: 1.5px solid #dbdbdb;
+    background-color: #fff;
+    width: 15%;
+    margin: 0.3rem 0.3rem 0.3rem 0.7rem;
+    border-radius: 5px;
+    height: 96vh;
+    overflow-y: scroll;
+}
+
+.logo {
+    width: 100%;
+}
+
+.mainMenu {
+    /* background: #555;
+    color: #fff;
+    letter-spacing: 1px;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    margin: 0.2rem 0; */
+}
+
+.parentMenu{
+    background: #555;
+    color: #fff;
+    letter-spacing: 1px;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    margin: 0.2rem 0;
+    transition: 0.4s;
+}
+
+.parentMenu:hover{
+    background: #34b1c4;
+    letter-spacing: 1px;
+}
+
+
+.subMenu {
+    background: #ececec;
+    border-radius: 3px;
+    margin-top: 0.4rem;
+    padding: 0.3rem 0.4rem;
+    margin-bottom: 1rem;
+    transition: 0.3s
+}
+
+.subMenu p {
+    margin-bottom: 0.4rem;
+}
+
+.subMenu p:nth-last-child(1) {
+    margin-bottom: 0.1rem;
+}
+
+
+.menuClose{
+    height: 0;
+    padding: 0 0.4rem;
+    overflow: hidden;
+    margin: 0;
+}
+
+.sideNav::-webkit-scrollbar{
+    width: 0.2rem;
+}
+
+.sideNav::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px #34b1c4dc;
+  }
+
+.sideNav::-webkit-scrollbar-thumb{
+    background-color: #555;
+}
